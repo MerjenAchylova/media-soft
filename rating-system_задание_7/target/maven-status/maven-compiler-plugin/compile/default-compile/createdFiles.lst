@@ -1,0 +1,9 @@
+com\restaurant\rating\entity\Visitor$VisitorBuilder.class
+com\restaurant\rating\entity\Visitor.class
+com\restaurant\rating\entity\Review$ReviewBuilder.class
+com\restaurant\rating\entity\ReviewId.class
+com\restaurant\rating\entity\Restaurant$RestaurantBuilder.class
+com\restaurant\rating\entity\Review.class
+com\restaurant\rating\entity\CuisineType.class
+com\restaurant\rating\repository\ReviewRepository.class
+com\restaurant\rating\entity\Restaurant.class
